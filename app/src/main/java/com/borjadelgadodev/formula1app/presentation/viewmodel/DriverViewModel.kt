@@ -1,6 +1,5 @@
 package com.borjadelgadodev.formula1app.presentation.viewmodel
 
-import android.util.Log
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.borjadelgadodev.formula1app.domain.models.Driver
